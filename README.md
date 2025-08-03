@@ -182,8 +182,4 @@ import pandas as pd
 
 ---
 
-## ⚙️ Want This as a PDF or Reference Sheet?
 
-Let me know — I can generate a clean printable version for quick reference.
-
-Also happy to explain any function in more detail or translate terms to **Bangla** if needed.
