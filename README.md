@@ -1,6 +1,5 @@
 #### ML Data Manipulation
 
-Absolutely! Here's a **comprehensive list of commonly used data manipulation functions** in **Pandas**, organized by category to help you navigate quickly.
 
 ---
 
